@@ -1,1 +1,1 @@
-# etch-a-sketch
+This repository contains the code for the Etch-a-Sketch Project of the Foundations Course of the Odin Project.
